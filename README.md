@@ -44,17 +44,22 @@ Two data sources were used for this data analysis namely the Box Office Mojo and
 
 # Findings and Conclusion
 ### Common movie genres are
-Documentaries
-Action
-Drama
-Adventure
-Comedy
+
+<ol>Documentaries</ol>
+<ol>Action</ol>
+<ol>Drama</ol>
+<ol>Adventure</ol>
+<ol>Comedy</ol>
+
 
 ### Their potential competitors will be 
-BV (Beirut visuals)
-P\DW (DreamWorks)
-WB (Warner Bros)
-Uni (Universal Studios)
+
+<ol> BV (Beirut visuals)</ol>
+<ol> DW (DreamWorks) </ol>
+<ol> P\DW (DreamWorks) </ol>
+<ol> WB (Warner Bros) </ol>
+<ol> Uni (Universal Studios) </ol>
+
 
 # Recommendations 
 1. Focus on popular movie genres with a high rating – Invest in genres that are consistently performing well at the box office(Documentaries, Action, Drama, Adventure, Comedy,)
