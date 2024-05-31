@@ -21,20 +21,44 @@ Identify successful film types to guide Microsoft’s new movie studio.
 # Data Understanding and Analysis
 ## Sources of data
 In the folder zippedData are movie datasets from:
-Box Office Mojo
-IMDB
-Rotten Tomatoes
+Box Office Mojo - bom.movie_gross.csv
+IMDB - im.db
+Rotten Tomatoes 
 TheMovieDB
 The Numbers
 
 ## Description of the data
+Two data sources were used for this data analysis namely the Box Office Mojo and IMDB database, due to time constraints for the project. 
+
 
 # Data Visualization 
 
+![Most common movie genres](<Visualizations/Most common movie genres.png>)
+
+![Average Rating per Genre](<Visualizations/Average Rating by Genre.png>)
+
+![Distribution of Average Ratings](<Visualizations/Distribution of Average Ratings.png>)
+
+![Average Domestic Gross by Studio (Top 30 studios)](<Visualizations/Average Domestic Gross by Studio (Top 30 studios).png>)
 
 
+# Findings and Conclusion
+### Common movie genres are
+Documentaries
+Action
+Drama
+Adventure
+Comedy
 
-# Conclusion
+### Their potential competitors will be 
+BV (Beirut visuals)
+P\DW (DreamWorks)
+WB (Warner Bros)
+Uni (Universal Studios)
 
-## Relevant Findings
+# Recommendations 
+1. Focus on popular movie genres with a high rating – Invest in genres that are consistently performing well at the box office(Documentaries, Action, Drama, Adventure, Comedy,)
+2. Benchmark on studios that have a high domestic gross and foreign gross(BV, P\DW, WB, Uni,)- possibly collaborate in new movies with them.
+3. Adapt to Trends: Monitor and adapt to changing genre trends to stay relevant.
+
 
