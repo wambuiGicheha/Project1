@@ -39,9 +39,9 @@ It was established that both datasets had missing values
 <ol>Genres column – 3.7% (5408/773,855)</ol>
 
 #### Box office movies 
-<ol>>Studio  5/3386 (0.15%)</ol
-<ol>domestic_gross   28/3386 (0.8%)</ol>
-<ol>foreign_gross  1350/3386 (40%)</ol>
+<ol> Studio 5/3386 (0.15%)</ol>
+<ol> domestic_gross   28/3386 (0.8%)</ol>
+<ol> foreign_gross  1350/3386 (40%)</ol>
 
 
 
