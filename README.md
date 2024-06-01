@@ -30,6 +30,20 @@ The Numbers
 ## Description of the data
 Two data sources were used for this data analysis namely the Box Office Mojo and IMDB database, due to time constraints for the project. 
 
+### Data cleaning and preprocessing
+It was established that both datasets had missing values 
+
+Movies basics 
+runtime_minutes column – 21% of that column had missing values(31,739/773,855 rows)
+Original title column – 0.014% (21 /773,855)
+Genres column – 3.7% (5408/773,855)
+
+Box office movies 
+Studio  5/3386 (0.15%)
+domestic_gross   28/3386 (0.8%)
+foreign_gross  1350/3386 (40%)
+
+
 
 # Data Visualization 
 
@@ -66,4 +80,13 @@ Two data sources were used for this data analysis namely the Box Office Mojo and
 2. Benchmark on studios that have a high domestic gross and foreign gross(BV, P\DW, WB, Uni,)- possibly collaborate in new movies with them.
 3. Adapt to Trends: Monitor and adapt to changing genre trends to stay relevant.
 
+# Next steps
+1.Further analysis of specific sub-genres or niche markets
+2. Research on production costs vs. revenue for different genres
+3. Pilot projects or collaborations to gain industry experience
 
+
+# Conclusion
+<p> In conclusion, this venture stands out to be a wise business venture, as the revenue to be drawn from this is promising in both the domestic and gross numbers.</p> 
+<p> Focus on the recommended  movie genres, documentaries, action and comedy</p>
+<p> Collaborate with current leading studios for pilots.</p>
