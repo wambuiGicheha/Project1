@@ -33,15 +33,15 @@ Two data sources were used for this data analysis namely the Box Office Mojo and
 ### Data cleaning and preprocessing
 It was established that both datasets had missing values 
 
-Movies basics 
-runtime_minutes column – 21% of that column had missing values(31,739/773,855 rows)
-Original title column – 0.014% (21 /773,855)
-Genres column – 3.7% (5408/773,855)
+#### Movies basics 
+<ol>runtime_minutes column – 21% of that column had missing values(31,739/773,855 rows)</ol>
+<ol>Original title column – 0.014% (21 /773,855)</ol>
+<ol>Genres column – 3.7% (5408/773,855)</ol>
 
-Box office movies 
-Studio  5/3386 (0.15%)
-domestic_gross   28/3386 (0.8%)
-foreign_gross  1350/3386 (40%)
+#### Box office movies 
+<ol>>Studio  5/3386 (0.15%)</ol
+<ol>domestic_gross   28/3386 (0.8%)</ol>
+<ol>foreign_gross  1350/3386 (40%)</ol>
 
 
 
